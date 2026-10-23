@@ -205,7 +205,7 @@
   },
   "dependencies": {
     "@deepseek-ai/schemastery": "^3.18.1",
-    "@noble/hashes": "1.8.0",
+    "@noble/hashes": "2.4.0",
     "bonjour-service": "1.4.4",
     "eventsource-parser": "3.1.0",
     "qrcode": "^1.5.4",
